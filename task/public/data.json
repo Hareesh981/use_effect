@@ -1,0 +1,49 @@
+[
+   
+    { "id":"1",
+    "name":"Dhoni",
+    "age":"23"
+  },
+
+  { "id":"2",
+  "name":"Rohit",
+  "age":"33"
+},
+
+{ "id":"3",
+"name":"Pant",
+"age":"25"
+},
+
+{ "id":"4",
+"name":"Iyer",
+"age":"29"
+},
+
+{ "id":"5",
+"name":"Nitish",
+"age":"23"
+},
+
+{ "id":"6",
+"name":"Jaiswal",
+"age":"22"
+},
+
+{ "id":"7",
+"name":"Gill",
+"age":"26"
+},
+
+{ "id":"8",
+"name":"Virat",
+"age":"28"
+},
+
+{ "id":"9",
+"name":"Rahul",
+"age":"23"
+}
+
+    
+]
